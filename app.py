@@ -1,4 +1,4 @@
 import streamlit as st
 
-# Display "Hello" on the app
-st.write("Hello")
+a = input('Give me your name')
+st.write(f"Hi {a}")
