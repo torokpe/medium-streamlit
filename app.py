@@ -5,4 +5,7 @@ option = st.selectbox(
     ("Email", "Home phone", "Mobile phone"),
 )
 
-st.write("You selected:", option)
+if option == 'Email':
+    st.write('1')
+else:
+    st.write('Else')
