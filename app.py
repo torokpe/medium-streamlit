@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 option = st.selectbox(
-    "How would you like to be contacted?",
+    "Imádság kiválasztása:",
     ("Hétfőn reggeli imádság", "Hétfőn estvéli imádság", 
      "Kedden reggeli imádság", "Kedden estvéli imádság",
      "Szerdán reggeli imádság", "Szerdán estvéli imádság",
