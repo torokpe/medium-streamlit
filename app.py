@@ -12,7 +12,7 @@ option = st.selectbox(
      "Vasárnap reggeli imádság", "Vasárnap estvéli imádság"
     )
 )
-
+a
 
 url_mapping = {
     "Hétfőn reggeli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/hetfo_1.txt",
