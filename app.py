@@ -12,6 +12,6 @@ option = st.selectbox(
 )
 
 if option == 'Email':
-    st.write('1')
+    st.write('https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/hetfo_1.txt')
 else:
     st.write('Else')
