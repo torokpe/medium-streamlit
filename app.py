@@ -11,7 +11,7 @@ option = st.selectbox(
     )
 )
 
-if option == 'Email':
+if option == 'Hétfőn reggeli imádság':
     st.write('https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/hetfo_1.txt')
 else:
     st.write('Else')
