@@ -14,7 +14,7 @@ option = st.selectbox(
 
 url_mapping = {
     "Hétfőn reggeli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/hetfo_1.txt",
-    "Hétfőn estvéli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/hetfo_2.txt",
+    "Hétfőn estvéli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/hefto_2.txt",
     "Kedden reggeli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/kedd_1.txt",
     "Kedden estvéli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/kedd_2.txt",
     "Szerdán reggeli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/szerda_1.txt",
