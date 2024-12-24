@@ -26,8 +26,8 @@ url_mapping = {
     "Pénteken estvéli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/pentek_2.txt",
     "Szombaton reggeli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/szombat_1.txt",
     "Szombaton estvéli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/szombat_2.txt",
-    "Vasárnap reggeli imádság": "Ez még hiányzik :(",
-    "Vasárnap estvéli imádság": "Ez még hiányzik :("
+    "Vasárnap reggeli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/vasarnap_1.txt",
+    "Vasárnap estvéli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/vasarnap_2.txt"
 }
 
 # Fetch and display the file content if the option matches
