@@ -13,6 +13,8 @@ option = st.selectbox(
     )
 )
 
+default_index = options.index("Kedden reggeli imádság")
+
 url_mapping = {
     "Hétfőn reggeli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/hetfo_1.txt",
     "Hétfőn estvéli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/hefto_2.txt",
