@@ -24,7 +24,7 @@ url_mapping = {
     "Pénteken reggeli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/pentek_1.txt",
     "Pénteken estvéli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/pentek_2.txt",
     "Szombaton reggeli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/szombat_1.txt",
-    "Szombaton estvéli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/szombat_1.txt",
+    "Szombaton estvéli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/szombat_2.txt",
     
 }
 
