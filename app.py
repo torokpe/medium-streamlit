@@ -14,7 +14,18 @@ option = st.selectbox(
 
 url_mapping = {
     "Hétfőn reggeli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/hetfo_1.txt",
-    # Add mappings for other options if needed
+    "Hétfőn estvéli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/hetfo_2.txt",
+    "Kedden reggeli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/kedd_1.txt",
+    "Kedden estvéli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/kedd_2.txt",
+    "Szerdán reggeli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/szerda_1.txt",
+    "Szerdán estvéli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/szerda_2.txt",
+    "Csütörtökön reggeli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/csutortok_1.txt",
+    "Csütörtökön estvéli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/csutortok_1.txt",
+    "Pénteken reggeli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/pentek_1.txt",
+    "Pénteken estvéli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/pentek_2.txt",
+    "Szombaton reggeli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/szombat_1.txt",
+    "Szombaton estvéli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/szombat_1.txt",
+    
 }
 
 # Fetch and display the file content if the option matches
