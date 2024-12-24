@@ -1,4 +1,5 @@
 import streamlit as st
+import requests
 
 option = st.selectbox(
     "How would you like to be contacted?",
