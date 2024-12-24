@@ -13,6 +13,18 @@ option = st.selectbox(
     )
 )
 
+default_value = "Kedden reggeli imádság"
+
+# Find the index of the default value
+default_index = options.index(default_value)
+
+# Create the selectbox with the default option set
+option = st.selectbox(
+    "Imádság kiválasztása:",
+    options,
+    index=default_index  # Set the default value
+)
+
 url_mapping = {
     "Hétfőn reggeli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/hetfo_1.txt",
     "Hétfőn estvéli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/hefto_2.txt",
