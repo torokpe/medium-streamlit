@@ -8,7 +8,8 @@ option = st.selectbox(
      "Szerdán reggeli imádság", "Szerdán estvéli imádság",
      "Csütörtökön reggeli imádság", "Csütörtökön estvéli imádság",
      "Pénteken reggeli imádság", "Pénteken estvéli imádság",
-     "Szombaton reggeli imádság", "Szombaton estvéli imádság"
+     "Szombaton reggeli imádság", "Szombaton estvéli imádság",
+     "Vasárnap reggeli imádság", "Vasárnap estvéli imádság"
     )
 )
 
@@ -25,7 +26,8 @@ url_mapping = {
     "Pénteken estvéli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/pentek_2.txt",
     "Szombaton reggeli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/szombat_1.txt",
     "Szombaton estvéli imádság": "https://raw.githubusercontent.com/torokpe/medium-streamlit/refs/heads/main/szombat_2.txt",
-    
+    "Vasárnap reggeli imádság": "Ez még hiányzik :(",
+    "Vasárnap estvéli imádság": "Ez még hiányzik :("
 }
 
 # Fetch and display the file content if the option matches
